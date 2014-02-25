@@ -4,6 +4,7 @@ vt-art
 Art source for Valyria Tear and other misc stuff that aren't required to run the game.
 
 To have a look at the game, it's there: http://valyriatear.blogspot.com
+
 The game repository is there: https://github.com/Bertram25/ValyriaTear
 
 The art stored here is licensed under one of the following:
